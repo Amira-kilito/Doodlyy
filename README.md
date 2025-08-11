@@ -1,8 +1,10 @@
 # Doodly 
 
+
+
 # 🛍️ Full-Stack E-Commerce Website (Version 1)
 
-This is my first complete e-commerce application, built from scratch using **HTML**, **Tailwind CSS**, and **vanilla JavaScript**.  
+This is my first complete e-commerce application, built from scratch using **HTML**, **Tailwind CSS**, **vanilla JavaScript**, **PHP**, and **MySQL**.  
 It includes both **customer-facing features** and an **admin dashboard** for full store management.
 
 ---
@@ -19,31 +21,32 @@ It includes both **customer-facing features** and an **admin dashboard** for ful
 ### ⚙️ Admin Dashboard
 - **Order Management** — View, update, and delete orders.
 - **User Management** — View, edit, and delete user accounts.
-- **Product CRUD** — Create, Read, Update, and Delete products.
+- **Product CRUD** — Create, Read, Update, and Delete products using PHP & MySQL queries.
 - **Basic Sales Statistics** — Overview of store performance.
 
 ---
 
 ## 📚 What I Learned
+- Building a **full-stack application** with PHP for backend logic and MySQL for data storage.
 - Structuring scalable front-end code with Tailwind CSS.
-- Implementing authentication and managing secure user sessions.
-- Creating an admin panel for business-side operations.
-- Adding interactive filtering & search to improve UX.
-- Understanding CRUD operations for managing data.
+- Writing and executing **CRUD operations** in MySQL.
+- Implementing authentication and secure user sessions with PHP.
+- Creating an admin panel to manage orders, users, and products.
+- Adding interactive filtering & search to improve user experience.
 
 ---
 
 ## 🔮 Next Steps (Version 2)
 - Rebuild the frontend using **React**.
-- Add a **Node.js/Laravel backend** with MySQL.
+- Add a **Node.js/Laravel backend** with MySQL for scalability.
 - Integrate **real payment processing** (Stripe & Moroccan CMI).
 - Fully optimize for **mobile-first** responsiveness.
 
-
 ---
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, Tailwind CSS, JavaScript
-- **Backend**: PHP
+- **Backend:** PHP
 - **Database:** MySQL (for CRUD operations)
 - **Version Control:** Git & GitHub
