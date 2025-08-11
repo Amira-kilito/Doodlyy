@@ -9,16 +9,16 @@ It includes both **customer-facing features** and an **admin dashboard** for ful
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 🛒 Customer Side
+### Customer Side
 - **User Authentication** — Sign up, log in, and manage personal accounts.
 - **Order History** — Users can review their past purchases.
 - **Product Filtering & Search** — Quickly find items by category or keyword.
 - **Cart System** — Add/remove products with live updates.
 - **Basic Mobile Layout** — Works on desktop & partially on mobile (improved version coming).
 
-### ⚙️ Admin Dashboard
+### Admin Dashboard
 - **Order Management** — View, update, and delete orders.
 - **User Management** — View, edit, and delete user accounts.
 - **Product CRUD** — Create, Read, Update, and Delete products using PHP & MySQL queries.
@@ -26,7 +26,7 @@ It includes both **customer-facing features** and an **admin dashboard** for ful
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 - Building a **full-stack application** with PHP for backend logic and MySQL for data storage.
 - Structuring scalable front-end code with Tailwind CSS.
 - Writing and executing **CRUD operations** in MySQL.
@@ -36,7 +36,7 @@ It includes both **customer-facing features** and an **admin dashboard** for ful
 
 ---
 
-## 🔮 Next Steps (Version 2)
+##  Next Steps (Version 2)
 - Rebuild the frontend using **React**.
 - Add a **Node.js/Laravel backend** with MySQL for scalability.
 - Integrate **real payment processing** (Stripe & Moroccan CMI).
@@ -50,3 +50,4 @@ It includes both **customer-facing features** and an **admin dashboard** for ful
 - **Backend:** PHP
 - **Database:** MySQL (for CRUD operations)
 - **Version Control:** Git & GitHub
+
